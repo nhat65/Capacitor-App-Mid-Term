@@ -12,8 +12,8 @@
 
 ### 1. Clone repository
 
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/nhat65/Capacitor-App-Mid-Term.git  
+cd Capacitor-App-Mid-Term
 
 ### 2. Cài đặt các phụ thuộc
 
