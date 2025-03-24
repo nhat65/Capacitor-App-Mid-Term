@@ -28,8 +28,6 @@ npm run start
 npx cap open android
 
 ## Công Nghệ Sử Dụng
-- **Frontend**: HTML, CSS (TailwindCSS), JavaScript
-- **Backend**: Không cần server cục bộ, chạy hoàn toàn trên trình duyệt
 - **Capacitor Plugins**:
   - `@capacitor/local-notifications` - Hiển thị thông báo
   - `@capacitor/share` - Chia sẻ kết quả
@@ -39,5 +37,7 @@ npx cap open android
 ## Ghi Chú
 - Cần cấp quyền vị trí và thông báo khi chạy trên di động.
 - Trên Android, khi chạy `npx cap open android`, hãy kiểm tra các quyền trước khi build APK.
+
+
 
 
