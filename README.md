@@ -1,12 +1,43 @@
-## Created with Capacitor Create App
+# Chuyển Đổi Nhiệt Độ & Lấy Vị Trí
 
-This app was created using [`@capacitor/create-app`](https://github.com/ionic-team/create-capacitor-app),
-and comes with a very minimal shell for building an app.
+## Giới thiệu
 
-### Running this example
+Ứng dụng này cho phép người dùng:
+- Chuyển đổi nhiệt độ từ Độ C sang Độ F
+- Lấy vị trí hiện tại (tọa độ và tên vị trí)
+- Nhận thông báo sau khi chuyển đổi nhiệt độ
+- Chia sẻ kết quả nhiệt độ và vị trí
 
-To run the provided example, you can use `npm start` command.
+## Cài đặt và Chạy Ứng Dụng
 
-```bash
-npm start
-```
+### 1. Clone repository
+
+git clone <repository-url>
+cd <project-folder>
+
+### 2. Cài đặt các phụ thuộc
+
+npm install
+
+### 3. Chạy ứng dụng trên trình duyệt
+
+npm run start
+
+### 4. Chạy ứng dụng trên Android Studio
+
+npx cap open android
+
+## Công Nghệ Sử Dụng
+- **Frontend**: HTML, CSS (TailwindCSS), JavaScript
+- **Backend**: Không cần server cục bộ, chạy hoàn toàn trên trình duyệt
+- **Capacitor Plugins**:
+  - `@capacitor/local-notifications` - Hiển thị thông báo
+  - `@capacitor/share` - Chia sẻ kết quả
+  - `@capacitor/splash-screen` - Quản lý Splash Screen
+  - `@capacitor/geolocation` - Lấy vị trí hiện tại
+
+## Ghi Chú
+- Cần cấp quyền vị trí và thông báo khi chạy trên di động.
+- Trên Android, khi chạy `npx cap open android`, hãy kiểm tra các quyền trước khi build APK.
+
+
