@@ -1,0 +1,10 @@
+{
+  "appId": "com.gk.app",
+  "appName": "GKApp",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
