@@ -5,30 +5,16 @@ Giới Thiệu
 Cách Cài Đặt & Chạy Ứng Dụng
 
 1. Clone Repository
-   bash
-   Copy
-   Edit
-   git clone <repository-url>
-   cd <project-folder>
-2. Cài Đặt Dependencies
-   bash
-   Copy
-   Edit
+   git clone https://github.com/nhat65/Capacitor-App-Mid-Term
+   cd Capacitor-App-Mid-Term
+3. Cài Đặt Dependencies
    npm install
-3. Chạy Ứng Dụng trên Trình Duyệt
-   bash
-   Copy
-   Edit
+4. Chạy Ứng Dụng trên Trình Duyệt
    npm run start
    Ứng dụng sẽ mở trong trình duyệt mà không cần server cục bộ.
-
-4. Chạy Ứng Dụng trên Android
-   bash
-   Copy
-   Edit
+5. Chạy Ứng Dụng trên Android
    npx cap sync android
    npx cap open android
-   Sau đó, chạy ứng dụng trong Android Studio.
 
 Công Nghệ Sử Dụng
 Capacitor: Xử lý local notifications, chia sẻ dữ liệu, và lấy vị trí.
