@@ -36,4 +36,13 @@ Capacitor: Xử lý local notifications, chia sẻ dữ liệu, và lấy vị t
 Tailwind CSS: Thiết kế giao diện đơn giản và đẹp mắt.
 
 JavaScript (ES6+): Điều khiển logic ứng dụng.
+
 [![alt text](src/assets/imgs/z6437283775334_9e9774311b87446abdf9e29e8ce349b6.jpg)]
+
+[![alt text](src/assets/imgs/z6437283788085_79f0f03f131a5c7da1cce4987b5868ae.jpg)]
+
+[![alt text](src/assets/imgs/z6437283804096_b3149ad5de579dba0f605f27207b591e.jpg)]
+
+[![alt text](src/assets/imgs/z6437283805747_89ce2c559d18d31cd23b30ec83289c11.jpg)]
+
+[![alt text](src/assets/imgs/z6437317977033_2c61b0b5cffa28091aa7739031803e3b.jpg)]
